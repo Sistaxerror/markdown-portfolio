@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# **esto es en mayuscula**
+*eeeeeeeeeee*
+
+
+## pequño
+
+- 1
+- 2
+- 3
